@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,Price,StockQty
+P101,Laptop,Electronics,$800,10
+P102,Headphones,Electronics,$50,-5
+P103,Office Chair,Furniture,120,20
+P101,Laptop,Electronics,$800,10
+P104,Desk,Furniture,abc,15
+P106,Water Bottle,Accessories,500,200
+P107,Backpack,Accessories,1500,75
+P108,Keyboard,Electronics,1200,80
+P109,Mouse,Electronics,800,90
+P110,Monitor,Electronics,15000,25
+P111,Notebook,Stationery,50,500
+P112,Pen,Stationery,10,1000
+P113,Coffee Mug,Home,300,150
+P114,Table Lamp,Home,900,60
+P115,Shoes,Fashion,3000,40
+P116,T-Shirt,Fashion,800,120
+P117,Watch,Fashion,4500,30
+P118,Sunglasses,Fashion,2000,35
+P119,Power Bank,Electronics,1800,70
+P120,USB Cable,Electronics,200,300
+P200,NULL,Electronics,2500,20
+P201,Tablet,Electronics,abc,15
+P202,Printer,Electronics,9000,-2
